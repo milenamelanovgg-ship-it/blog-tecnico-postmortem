@@ -12,7 +12,7 @@ Elegí **Notion** para estructurar y publicar la cara pública de mi blog técni
 
 En paralelo, integré **GitHub** como repositorio central de este conocimiento. Siguiendo una mentalidad nativa de ingeniería de producto (*"Ship It"*), esta dualidad me otorga ventajas complementarias: Notion opera como la interfaz ágil de lectura para cualquier stack de stakeholders, mientras que GitHub actúa como el motor de control de versiones, asegurando la trazabilidad absoluta, el versionado del contenido en Markdown y la transparencia histórica de cada cambio editorial realizado en el proyecto.
 
-* **URL pública del blog en Notion:** [https://milenamelano.notion.site/auditoria-integral-experiencia-nutrigo-2026]([https://milenamelano.notion.site/auditoria-integral-experiencia-nutrigo-2026](https://app.notion.com/p/Entregable-Final-Blog-T-cnico-con-Post-Mortem-Constructivo-d55e3fad2eb1472ab2860196116ef628?source=copy_link))
+* **URL pública del blog en Notion:** [[https://milenamelano.notion.site/auditoria-integral-experiencia-nutrigo-2026](https://app.notion.com/p/Entregable-Final-Blog-T-cnico-con-Post-Mortem-Constructivo-d55e3fad2eb1472ab2860196116ef628?source=copy_link)]([https://milenamelano.notion.site/auditoria-integral-experiencia-nutrigo-2026](https://app.notion.com/p/Entregable-Final-Blog-T-cnico-con-Post-Mortem-Constructivo-d55e3fad2eb1472ab2860196116ef628?source=copy_link))
 * **Repositorio en GitHub:** [https://github.com/milenamelanovgg-ship-it/blog-tecnico-postmortem](https://github.com/milenamelanovgg-ship-it/blog-tecnico-postmortem)
 
 ---
