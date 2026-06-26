@@ -21,7 +21,8 @@ En paralelo, integré **GitHub** como repositorio central de este conocimiento. 
 
 Abrí mi espacio de trabajo en Notion y creé una página dedicada con una arquitectura optimizada para la lectura. Para su distribución pública, utilicé el menú superior derecho configurando los permisos de acceso abierto a la web.
 
-> 📸 *[Insertar aquí la Captura 1: Vista de la página en Notion con el título de la auditoría visible y el menú Share abierto, mostrando el toggle 'Share to web' activado y la URL pública generada]*
+> 📸 <img width="1358" height="636" alt="screenshot-1782494368801" src="https://github.com/user-attachments/assets/56d5fe18-976a-4f71-ac39-1d064e8db4ac" />
+
 
 ---
 
