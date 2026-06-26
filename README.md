@@ -126,7 +126,3 @@ Este análisis estratégico y su documentación se desarrollaron bajo las siguie
 
 > 💡 **Lección Final para Líderes Técnicos y Desarrolladores:**  
 > La capacidad de realizar diagnósticos claros, comunicar hallazgos complejos con simplicidad estructural, proponer soluciones basadas en métricas e iterar fluidamente a partir del feedback constructivo es el factor clave que diferencia a un analista competente de un estratega digital de alto impacto. Este proyecto consolidó de forma definitiva esas competencias profesionales.
-> 
-+---------------------------------------------------------------------------------------------------------------+
-| Pie de página: Caso de estudio indexado en GitHub Pages con Jekyll Theme Primer © 2026                        |
-+---------------------------------------------------------------------------------------------------------------+
