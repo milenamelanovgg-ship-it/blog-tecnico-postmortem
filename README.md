@@ -1,4 +1,3 @@
-# blog-tecnico-postmortem
 # Post-Mortem Constructivo: Auditoría Integral de Experiencia NutriGO
 
 **Autor:** Milena Melano  
