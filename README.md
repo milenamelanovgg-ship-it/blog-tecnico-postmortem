@@ -21,7 +21,7 @@ En paralelo, integré **GitHub** como repositorio central de este conocimiento. 
 
 Abrí mi espacio de trabajo en Notion y creé una página dedicada con una arquitectura optimizada para la lectura. Para su distribución pública, utilicé el menú superior derecho configurando los permisos de acceso abierto a la web.
 
-> 📸 <img width="1358" height="636" alt="screenshot-1782494368801" src="https://github.com/user-attachments/assets/56d5fe18-976a-4f71-ac39-1d064e8db4ac" />
+> <img width="1358" height="636" alt="screenshot-1782494368801" src="https://github.com/user-attachments/assets/56d5fe18-976a-4f71-ac39-1d064e8db4ac" />
 
 
 ---
@@ -113,6 +113,9 @@ Alineado con las mejores prácticas de la cultura de post-mortem de Google SRE, 
 * **Día 2 — 16:00:** Análisis de canales de atención. Se evidencia un retraso promedio superior a 4 horas en la resolución de consultas básicas de entrega por falta de herramientas automatizadas.
 * **Día 3 — 10:00:** Consolidación de datos de satisfacción. El NPS y la retención muestran una correlación directa con la falta de un canal relacional post-compra.
 
+<img width="1358" height="636" alt="screenshot-1782494772809" src="https://github.com/user-attachments/assets/ed9781fe-61dd-4f27-a7dd-f5f908860544" />
+
+
 #### Impacto Identificado:
 * Pérdida medible del porcentaje potencial de conversión en el checkout debido a la fricción operativa.
 * Sobrecarga de atención manual en consultas básicas repetitivas sobre stock y logística.
@@ -156,7 +159,7 @@ Notion registra de manera nativa e inalterable el historial de actualizaciones d
 * **Edición 4 — 23/06/2026:** Configuración del tablero de control con KPIs cuantitativos y métricas de SLA.
 * **Edición 5 — 26/06/2026:** Revisión final de lenguaje técnico para audiencias diversas, unificación estructural y despliegue público web mediante *Share to web*.
 
-> 📸 *[Insertar aquí la Captura 2: Panel de Updates e historial de cambios en Notion, documentando la evolución cronológica a través de las cinco ediciones estructurales]*
+> <img width="1358" height="636" alt="screenshot-1782494772809" src="https://github.com/user-attachments/assets/822e2e1f-780f-466a-a450-674b1081b275" />
 
 ### En GitHub
 Para asegurar un versionado explícito que deje trazabilidad real de los commits y de las decisiones de producto del proyecto, el contenido del blog se gestiona en un repositorio público.
@@ -174,8 +177,3 @@ Los commits que estructuran el control de versiones son:
 | **2e1b4d8** | style: refinamiento de formato markdown para lectura limpia y consistencia final |
 
 > 📸 *[Insertar aquí la Captura 3: Interfaz de GitHub mostrando el historial completo de commits con sus correspondientes identificadores SHA y mensajes]*
-
-Adicionalmente, el archivo `articulos/nutrigo-cx-analysis.md` incluye comentarios semánticos HTML ocultos integrados directamente en el código fuente para documentar los bloques de versiones del ciclo de vida editorial:
-
-```html
-📸 [Insertar aquí la Captura 4: Vista en el editor de código de GitHub del encabezado del archivo Markdown con los comentarios semánticos de versionado]
