@@ -159,7 +159,7 @@ Notion registra de manera nativa e inalterable el historial de actualizaciones d
 * **Edición 4 — 23/06/2026:** Configuración del tablero de control con KPIs cuantitativos y métricas de SLA.
 * **Edición 5 — 26/06/2026:** Revisión final de lenguaje técnico para audiencias diversas, unificación estructural y despliegue público web mediante *Share to web*.
 
-> <img width="1358" height="636" alt="screenshot-1782494772809" src="https://github.com/user-attachments/assets/822e2e1f-780f-466a-a450-674b1081b275" />
+> <img width="1358" height="636" alt="screenshot-1782495517807" src="https://github.com/user-attachments/assets/bff42e91-554b-47d7-8da5-73c4d0baaa34" />
 
 ### En GitHub
 Para asegurar un versionado explícito que deje trazabilidad real de los commits y de las decisiones de producto del proyecto, el contenido del blog se gestiona en un repositorio público.
