@@ -175,5 +175,3 @@ Los commits que estructuran el control de versiones son:
 | **b5e6f2a** | feat: incorporar user stories (backlog) y métricas cuantitativas de control (kpis) |
 | **fa7d3c9** | docs: añadir post-mortem detallado y sección de feedback radical sincero (sci) |
 | **2e1b4d8** | style: refinamiento de formato markdown para lectura limpia y consistencia final |
-
-> 📸 *[Insertar aquí la Captura 3: Interfaz de GitHub mostrando el historial completo de commits con sus correspondientes identificadores SHA y mensajes]*
